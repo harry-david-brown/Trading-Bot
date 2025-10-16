@@ -1,5 +1,5 @@
 # Trading-Bot
-Simple binance trading bot
+Binance trading bot
 
 https://python-binance.readthedocs.io/en/latest/
 
